@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Libre Franklin Italic';
+    src: url('../fonts/LibreFranklin-Italic-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Libre Franklin';
+    src: url('../fonts/LibreFranklin-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tenor Sans';
+    src: url('../fonts/TenorSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Source Serif Pro';
+    src: url('../fonts/SourceSerifPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; 
+}
